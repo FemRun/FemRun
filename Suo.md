@@ -1,0 +1,15 @@
+## 点评《手把手教锁男搬运》
+
+搬运是润的有效途径之一。本文精选网络零成本教程进行解说。
+
+此文门道非常之多，现有批判较为肤浅，没有触及关键。
+
+tbc
+
+参考文献
+
+https://posts.careerengine.us/p/62c8f6cce4b47108a009cffc
+
+https://news.ifeng.com/c/8I2lr8GrKCL
+
+https://www.reddit.com/r/real_China_irl/comments/vw8nsc/%E6%81%B6%E8%87%AD%E5%9B%BD%E7%94%B7%E4%B9%B0%E8%80%81%E5%A9%86%E5%B7%A5%E7%A8%8B%E5%AD%A6/
