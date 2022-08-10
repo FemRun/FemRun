@@ -1,14 +1,14 @@
 ## 德国
-人口少，福利好。免学费。不卷。
-重要的是，对女性非常友好。
-女性在德国，获得极大的包容尊重。
+人口少福利好。留学生可以申请大量免学费项目。不卷。
 
-本仓库暂将德国评选为对女性最友好的国家。
+重要的是，对女性非常友好。
+
+女性在德国，获得极大的包容尊重。
 
 润德博主
 
-https://twitter.com/YouwoLin
+https://twitter.com/YouwoLin 润学经验分享
 
-https://twitter.com/linmaomao2020
+https://twitter.com/linmaomao2020 女性心理建设
 
 tbc
