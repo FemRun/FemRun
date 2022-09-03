@@ -10,6 +10,8 @@ https://twitter.com/xinxinmoumou
 
 https://twitter.com/8964awakening
 
+https://twitter.com/shanren666
+
 https://medium.com/@rockyrolling906
 
 https://twitter.com/8964jiansuiXT
