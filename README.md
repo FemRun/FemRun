@@ -9,4 +9,5 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1
 
 本仓库推荐的博主，可以帮助读者思维松绑，跳出洼地。
 
-!(https://github.com/FemRun/cat/blob/main/download.jpg)
+![](https://github.com/FemRun/cat/blob/main/download.jpg)
+
