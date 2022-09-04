@@ -8,3 +8,5 @@ https://twitter.com/Yirusdie8964/status/1554273219322028033?cxt=HHwWgoC9mcLQ8ZEr
 https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B
 
 本仓库推荐的博主，可以帮助读者思维松绑，跳出洼地。
+
+!(https://github.com/FemRun/cat/blob/main/download.jpg)
