@@ -2,6 +2,8 @@
 ## 女性润学教程
 旨在为女性润提供信息。
 
+（注意：本仓库存在大量更新，未并入润学官方仓库，请有兴趣的朋友直接关注我们的更新）
+
 科学上网tips
 https://twitter.com/Yirusdie8964/status/1554273219322028033?cxt=HHwWgoC9mcLQ8ZErAAAA
 
