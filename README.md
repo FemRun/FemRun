@@ -4,9 +4,12 @@
 
 **本仓库存在大量更新，** 因为润太祖懒惰消极怠工，未并入润学官方仓库，**请感兴趣的朋友直接关注我们**
 
-科学上网tips
+- 科学上网tips
 https://twitter.com/Yirusdie8964/status/1554273219322028033?cxt=HHwWgoC9mcLQ8ZErAAAA
 
+- 付费机场方便好用，不担心挂掉。此处避免广告暂不推荐。
+
+- 喜欢自己动手的朋友请看自建指南
 https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B
 
 本仓库推荐的博主，可以帮助读者思维松绑，跳出洼地。
