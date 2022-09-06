@@ -7,7 +7,7 @@
 - 科学上网tips
 https://twitter.com/Yirusdie8964/status/1554273219322028033?cxt=HHwWgoC9mcLQ8ZErAAAA
 
-- 机场节点方便好用，不担心挂掉。此处避免广告，暂不邀请付费机场。
+- 机场节点稳定方便，不担心挂掉。此处避免广告，暂不邀请付费机场。单人使用情况下，付费订阅比自建省钱。
 
 - 喜欢自己动手的朋友请看自建指南
 https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B
