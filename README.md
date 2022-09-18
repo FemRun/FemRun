@@ -19,6 +19,6 @@
 
 ![](https://github.com/FemRun/cat/blob/main/download.jpg)
 
-既然是润学，思维，更要润。
+脚步润，思维，更要润。
 
 # 润学女性，绝尘而去
