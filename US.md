@@ -25,3 +25,5 @@ https://twitter.com/8964jiansuiXT
 女性编程教学 https://twitter.com/thecodercoder/  https://www.youtube.com/c/TheCoderCoder
 
 程序媛 https://twitter.com/LaLaLaLaLaTown
+
+<img src="https://pbs.twimg.com/media/FciR5TvXkAI6rW6?format=jpg&name=medium"  width="50%" height="50%"> from https://toyokeizai.net/articles/-/616568#"
