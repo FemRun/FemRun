@@ -10,8 +10,8 @@
 
 性别偏见重灾区游戏圈，女玩家精神家园 https://www.reddit.com/r/gamergoose/comments/wzaqvk/%E8%BD%AC%E7%94%9F%E4%BA%86_%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B7%E8%A2%AB%E8%8C%B6%E5%A3%B6%E5%98%B4%E4%B8%BE%E6%8A%A5/
 
-科学上网tips https://twitter.com/Yirusdie8964/status/1554273219322028033?cxt=HHwWgoC9mcLQ8ZErAAAA diy自建指南
- https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B 
+科学上网tips https://twitter.com/Yirusdie8964/status/1554273219322028033?cxt=HHwWgoC9mcLQ8ZErAAAA  
+diy自建指南 https://github.com/FemRun/new-pac
  
 本仓库推荐的博主，可以帮助读者思维松绑，跳出洼地。
 
