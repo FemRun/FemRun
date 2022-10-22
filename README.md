@@ -15,6 +15,8 @@ diy自建指南 https://github.com/FemRun/new-pac
  
 本仓库推荐的博主，可以帮助读者思维松绑，跳出洼地。
 
+重要更新[《润学信条的本质是雌性智慧》](真正的润学真谛，核心信条，是什么.md)
+
 润学女性倾情奉献。工程浩大，更多教程即将上线，敬请期待。
 
 ![](https://github.com/FemRun/cat/blob/main/download.jpg)
@@ -22,5 +24,3 @@ diy自建指南 https://github.com/FemRun/new-pac
 脚步润，思维，更要润。
 
 # 润学女性，绝尘而去
-
-重要更新[润学信条的本质是雌性智慧](真正的润学真谛，核心信条，是什么.md)
